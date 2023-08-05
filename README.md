@@ -1,1 +1,2 @@
 # Data-Science-Salary-Dashboard
+The data analysis project provides valuable insights into the current state and trends of the data science field in India. It also highlights the opportunities and challenges that data science professionals face in their careers. The project can help aspiring and existing data science professionals make informed decisions about their career paths and goals. It can also help employers and educators understand the needs and expectations of the data science workforce in India
